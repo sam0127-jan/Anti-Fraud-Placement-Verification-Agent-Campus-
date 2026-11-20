@@ -1,0 +1,8 @@
+VITE_APP_TITLE= Placement Verification Agent
+VITE_COLLEGE_NAME= Government College of Engineering, Kolhapur
+SMTP_SERVER= smtp.gmail.com
+TPO_EMAIL= tpo@gcoekolhapur.ac.in
+SMTP_PASSWORD= sojd nuae zraa bvwu
+VITE_TPO_DESK_EMAIL= tpo@gcoek.ac.in
+SMTP_PORT= 587
+SMTP_EMAIL=23060361242062@gcoekolhapur.ac.in
