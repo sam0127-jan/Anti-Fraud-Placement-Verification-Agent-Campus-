@@ -1,0 +1,6 @@
+{
+  "name": "Anti-Fraud Placement Verification Agent",
+  "description": "Anti-Fraud Placement Document & Record Verification System for College Training and Placement Cells (TPO)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

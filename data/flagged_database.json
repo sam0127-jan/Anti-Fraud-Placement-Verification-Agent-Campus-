@@ -1,0 +1,15 @@
+[
+  {
+    "id": "flag_101_1790492739548_j4rg",
+    "rollNumber": "101",
+    "studentName": "Rahul Patil",
+    "reason": "CGPA mismatch (Official: 8.25, Submitted: 9.25, Diff: +1.00)",
+    "officialValue": "8.25",
+    "submittedValue": "9.25",
+    "difference": "+1.00",
+    "status": "UNDER REVIEW",
+    "remarks": "Candidate summoned with original marksheets for physical registrar scrutiny.",
+    "createdAt": "2026-09-27T07:05:39.547Z",
+    "updatedAt": "2026-09-27T07:47:43.413Z"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-09-27 05:09:00",
+    "roll_number": "102",
+    "recipient_type": "Student",
+    "recipient_email": "priya.sharma@college.edu",
+    "subject": "[CRITICAL] Training & Placement Notice: Discrepancy Detected - Roll No 102",
+    "status": "SIMULATED",
+    "details": "[SIMULATED SUCCESS] Email prepared for priya.sharma@college.edu ([CRITICAL] Training & Placement Notice: Discrepancy Detected - Roll No 102). Simulation mode is active."
+  },
+  {
+    "timestamp": "2026-09-27 05:09:00",
+    "roll_number": "102",
+    "recipient_type": "TPO",
+    "recipient_email": "tpo@college.edu",
+    "subject": "[FRAUD ALERT] Discrepancy Detected in Placement Record - Roll 102",
+    "status": "SIMULATED",
+    "details": "[SIMULATED SUCCESS] Email prepared for tpo@college.edu ([FRAUD ALERT] Discrepancy Detected in Placement Record - Roll 102). Simulation mode is active."
+  },
+  {
+    "timestamp": "2026-09-27 05:09:58",
+    "roll_number": "102",
+    "recipient_type": "Student",
+    "recipient_email": "priya.sharma@college.edu",
+    "subject": "[CRITICAL] Training & Placement Notice: Discrepancy Detected - Roll No 102",
+    "status": "SIMULATED",
+    "details": "[SIMULATED SUCCESS] Email prepared for priya.sharma@college.edu ([CRITICAL] Training & Placement Notice: Discrepancy Detected - Roll No 102). Simulation mode is active."
+  },
+  {
+    "timestamp": "2026-09-27 05:09:58",
+    "roll_number": "102",
+    "recipient_type": "TPO",
+    "recipient_email": "tpo@college.edu",
+    "subject": "[FRAUD ALERT] Discrepancy Detected in Placement Record - Roll 102",
+    "status": "SIMULATED",
+    "details": "[SIMULATED SUCCESS] Email prepared for tpo@college.edu ([FRAUD ALERT] Discrepancy Detected in Placement Record - Roll 102). Simulation mode is active."
+  },
+  {
+    "timestamp": "2026-09-27 05:11:12",
+    "roll_number": "102",
+    "recipient_type": "Student",
+    "recipient_email": "priya.sharma@college.edu",
+    "subject": "[CRITICAL] Training & Placement Notice: Discrepancy Detected - Roll No 102",
+    "status": "SIMULATED",
+    "details": "[SIMULATED SUCCESS] Email prepared for priya.sharma@college.edu ([CRITICAL] Training & Placement Notice: Discrepancy Detected - Roll No 102). Simulation mode is active."
+  },
+  {
+    "timestamp": "2026-09-27 05:11:12",
+    "roll_number": "102",
+    "recipient_type": "TPO",
+    "recipient_email": "tpo@college.edu",
+    "subject": "[FRAUD ALERT] Discrepancy Detected in Placement Record - Roll 102",
+    "status": "SIMULATED",
+    "details": "[SIMULATED SUCCESS] Email prepared for tpo@college.edu ([FRAUD ALERT] Discrepancy Detected in Placement Record - Roll 102). Simulation mode is active."
+  }
+]
